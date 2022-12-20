@@ -1,0 +1,81 @@
+
+
+/* Row 1 */
+.container-1 {
+  display:flex;
+}
+
+.container-1 div{
+  border:1px #ccc solid;
+}
+
+/* Checker Pattern */
+.box-1 {
+  background-color: black;
+  height:50px; 
+  width:50px;
+}
+
+.box-2 {
+  background-color:white; 
+  height:50px; 
+  width:50px;
+}
+
+
+/* Row 2  */
+.container-2 {
+  display: flex;
+}
+.container-2 div{
+  border:1px #ccc solid;
+}
+
+/* Row 3  */
+.container-3 {
+  display: flex;
+}
+.container-3 div{
+  border:1px #ccc solid;
+}
+
+/* Row 4  */
+.container-4 {
+  display: flex;
+}
+.container-4 div{
+  border:1px #ccc solid;
+}
+
+/* Row 5 */
+.container-5 {
+  display: flex;
+}
+.container-5 div{
+  border:1px #ccc solid;
+}
+
+
+/* Row 6  */
+.container-6 {
+  display: flex;
+}
+.container-6 div{
+  border:1px #ccc solid;
+}
+
+/* Row 7  */
+.container-7 {
+  display: flex;
+}
+.container-7 div{
+  border:1px #ccc solid;
+}
+
+/* Row 8  */
+.container-8 {
+  display: flex;
+}
+.container-8 div{
+  border:1px #ccc solid;
+}
